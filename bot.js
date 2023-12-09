@@ -265,4 +265,4 @@ function sendStartMessage(channel) {
     });
 }
 
-client.login('OTMwMzQ0MDAxMzYwNTI3NDMy.GozoQT.oz25G0zct-j3DtFVSwllhggelM8Lq3k4WiXMIs');
+client.login('');
